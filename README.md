@@ -7,3 +7,4 @@ hence showcasing the central limit theorem
 
 This is a jupyternotebook, using nbinteract to render the ipython interactive widgets
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gowrithampi/cointoss/master?filepath=%2Fcointoss.ipynb)
